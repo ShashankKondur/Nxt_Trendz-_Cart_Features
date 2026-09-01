@@ -109,5 +109,5 @@ class App extends Component {
     )
   }
 }
-
+//https://shashankizvarrjscpfoqqb.drops.nxtwave.tech/login this link will work
 export default App
