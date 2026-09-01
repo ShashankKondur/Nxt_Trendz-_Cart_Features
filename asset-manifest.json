@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nxt_Trendz-_Cart_Features/static/css/main.c71337f8.chunk.css",
+    "main.js": "/Nxt_Trendz-_Cart_Features/static/js/main.e3b8e562.chunk.js",
+    "main.js.map": "/Nxt_Trendz-_Cart_Features/static/js/main.e3b8e562.chunk.js.map",
+    "runtime-main.js": "/Nxt_Trendz-_Cart_Features/static/js/runtime-main.2aa69d40.js",
+    "runtime-main.js.map": "/Nxt_Trendz-_Cart_Features/static/js/runtime-main.2aa69d40.js.map",
+    "static/js/2.248d5aaf.chunk.js": "/Nxt_Trendz-_Cart_Features/static/js/2.248d5aaf.chunk.js",
+    "static/js/2.248d5aaf.chunk.js.map": "/Nxt_Trendz-_Cart_Features/static/js/2.248d5aaf.chunk.js.map",
+    "index.html": "/Nxt_Trendz-_Cart_Features/index.html",
+    "static/css/main.c71337f8.chunk.css.map": "/Nxt_Trendz-_Cart_Features/static/css/main.c71337f8.chunk.css.map",
+    "static/js/2.248d5aaf.chunk.js.LICENSE.txt": "/Nxt_Trendz-_Cart_Features/static/js/2.248d5aaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aa69d40.js",
+    "static/js/2.248d5aaf.chunk.js",
+    "static/css/main.c71337f8.chunk.css",
+    "static/js/main.e3b8e562.chunk.js"
+  ]
+}
